@@ -1,5 +1,5 @@
-# End-of-term-Design
-to save my end of term homework
+# CSGO饰品管理系统
+我的大一期末课程设计
 
 ## 需求分析
 
